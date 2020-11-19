@@ -50,6 +50,8 @@ Update: With a little bit of searching Autodesk Circuits I found my design post 
 
 ![](https://i.imgur.com/ulEBNEC.jpg)
 
+<iframe width="725" height="453" src="https://www.tinkercad.com/embed/fjsfZ70k4bY?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 
 Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram. It also does not indicate the button input for changing modes. Refer to sketch for inputs.
 
