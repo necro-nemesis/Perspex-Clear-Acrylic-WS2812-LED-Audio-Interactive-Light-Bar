@@ -46,6 +46,9 @@ Constructing this is undeniably an undertaking but I never underestimate the mak
 
 Update: With a little bit of searching Autodesk Circuits I found my design post with a very early version of the sketch. For whatever reason Autodesk assigned it to a fictitious author in a failed attempt to migrate me over to Tinkercad. None the less it provides the general circuit layout. The signal generator shown is only to provide an input for running the simulation and is not required as input comes from the audio input of the MAX9418 in the real world. Since posting this circuit the bar additionally has 4 modes that are selected by the momentary push button wired to pin 2 not shown in the circuit diagram.
 
+![](https://i.imgur.com/ulEBNEC.jpg)
+
+
 Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram.
 
 https://circuits.io/circuits/4038568-arduino-neopixels
