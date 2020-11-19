@@ -44,12 +44,14 @@ Attention was paid to ensuring all pieces will print without support. There are 
 
 Constructing this is undeniably an undertaking but I never underestimate the maker community's willingness to create astoundingly complex and wonderful things. I posted the entire circuit diagram and sketch to Autodesk Circuit but in my attempt to link it, it appears to have vanished in the move to Tinkercad. If there is enough interest I will recreate it on Tinkercad as well as discuss the assembly process. You will need an accurate means to saw finely cut slots in the IKEA shelf as this forms the basis for mounting and aligning the block retainers. There's a few skills involved but nothing insurmountable. Other than the cuts and soldering, everything else snaps,slides or screws together.
 
+![](https://i.imgur.com/TQzWDdj.jpg)
+
 Update: With a little bit of searching Autodesk Circuits I found my design post with a very early version of the sketch. For whatever reason Autodesk assigned it to a fictitious author in a failed attempt to migrate me over to Tinkercad. None the less it provides the general circuit layout. The signal generator shown is only to provide an input for running the simulation and is not required as input comes from the audio input of the MAX9418 in the real world. Since posting this circuit the bar additionally has 4 modes that are selected by the momentary push button wired to pin 2 not shown in the circuit diagram.
 
 ![](https://i.imgur.com/ulEBNEC.jpg)
 
 
-Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram.
+Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram. It also does not indicate the button input for changing modes. Refer to sketch for inputs.
 
 https://circuits.io/circuits/4038568-arduino-neopixels
 
