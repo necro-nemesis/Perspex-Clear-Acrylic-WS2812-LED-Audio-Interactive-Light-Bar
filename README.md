@@ -1,3 +1,7 @@
+# Perspex Clear Acrylic WS2812 LED Audio Interactive Light Bar
+
+![](https://i.imgur.com/hv7E1IH.jpg)
+
 # **Summary**
 Perspex LED light and sound activated bar
 Completed Assembly in operation:
