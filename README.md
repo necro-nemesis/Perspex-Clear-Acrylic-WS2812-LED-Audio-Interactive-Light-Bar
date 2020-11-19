@@ -50,9 +50,7 @@ Update: With a little bit of searching Autodesk Circuits I found my design post 
 
 ![](https://i.imgur.com/ulEBNEC.jpg)
 
-https://www.tinkercad.com/embed/fjsfZ70k4bY?editbtn=1
-
-Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram. It also does not indicate the button input for changing modes. Refer to sketch for inputs.
+Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram. It also does not indicate the button input for changing modes. Refer to sketch for inputs. I have provided a link to it redrawn in Tinkercad. Unfortunately there's problem with Tinckercad running the sketch that run fine in simulation in Autodesk Circuits. The signal generator was used since the cannot simulate a MAX9814 but provides input similarly.
 
 https://circuits.io/circuits/4038568-arduino-neopixels
 
