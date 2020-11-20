@@ -47,7 +47,7 @@ Constructing this is undeniably an undertaking but I never underestimate the mak
 
 ![](https://i.imgur.com/TQzWDdj.jpg)
 
-![](https://i.imgur.com/ulEBNEC.jpg)
+![](https://i.imgur.com/fNBtBei.png)
 
 Note the sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram as this is a limitation of Tinkercad. I have provided a link to the light bar project in Tinkercad. Unfortunately there's problem with Tinckercad running the sketch that run fine in simulation in Autodesk Circuits before it became Tinkercad. The signal generator was used since the site cannot simulate a MAX9814 but provides input similarly.
 
