@@ -20,10 +20,11 @@ I apologize for the low quality video.It looks and the sound was much better tha
 - 26 3/4" Thick Perspex Cast Acrylic Blocks 5" x 3"
 - 1 MAX9814 Microphone Amplifier Module AGC Auto Gain Control for Arduino
 - 1 470 ohm resistor
+- 1 10k ohm resistor
 - 1 100 uf capaitor
 - 1 0.1 uf capacitor
-- 1 Rocker Switch Package (L x W x H) 5.0 x 2.8 x 0.8 in. (see picture)
-- 1 Pushbutton Switch Package (L x W x H) 2.4 x 1.4 x 1.2 in. (see picture)
+- 1 Rocker Switch Package (L x W x H) 5.0 x 2.8 x 0.8 in. (see images folder)
+- 1 Pushbutton Switch Package (L x W x H) 2.4 x 1.4 x 1.2 in. (see images folder)
 - 1 48 in. x 3/4 in. x 1/16 in. Aluminum Square Tube
 - 10 #8 Pan Head Sheet Metal Screws
 
@@ -31,7 +32,7 @@ I apologize for the low quality video.It looks and the sound was much better tha
 
 - 26 Perspex Mount*
 - 8 Led Strip Retainer
-- 2 Center Support
+- 2 Center Support (minimum 2, additional supports can be added to increase stability across span 6 or 8 recommended)
 - 1 Left Angular End
 - 1 Right Angular End
 - 1 Center Connection Junction
@@ -46,11 +47,9 @@ Constructing this is undeniably an undertaking but I never underestimate the mak
 
 ![](https://i.imgur.com/TQzWDdj.jpg)
 
-Update: With a little bit of searching Autodesk Circuits I found my design post with a very early version of the sketch. For whatever reason Autodesk assigned it to a fictitious author in a failed attempt to migrate me over to Tinkercad. None the less it provides the general circuit layout. The signal generator shown is only to provide an input for running the simulation and is not required as input comes from the audio input of the MAX9418 in the real world. Since posting this circuit the bar additionally has 4 modes that are selected by the momentary push button wired to pin 2 not shown in the circuit diagram.
-
 ![](https://i.imgur.com/ulEBNEC.jpg)
 
-Note the revised sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram. It also does not indicate the button input for changing modes. Refer to sketch for inputs. I have provided a link to it redrawn in Tinkercad. Unfortunately there's problem with Tinckercad running the sketch that run fine in simulation in Autodesk Circuits. The signal generator was used since the Tinkercad site cannot simulate a MAX9814 but provides input similarly.
+Note the sketch and light bar design uses 13 WS2812 per strip versus the 12 shown in the circuit diagram as this is a limitation of Tinkercad. I have provided a link to the light bar project in Tinkercad. Unfortunately there's problem with Tinckercad running the sketch that run fine in simulation in Autodesk Circuits before it became Tinkercad. The signal generator was used since the site cannot simulate a MAX9814 but provides input similarly.
 
 https://www.tinkercad.com/things/fjsfZ70k4bY
 
