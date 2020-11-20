@@ -13,30 +13,30 @@ I apologize for the low quality video.It looks and the sound was much better tha
 
 ## Material:
 
-1 IKEA Moslanda 115cm picture shelf (black)
-1 Arduino Uno
-1 Transformer
-2 1M 30 Pixel/M WS2812 LED strips (total of 52 LEDs required)
-26 3/4" Thick Perspex Cast Acrylic Blocks 5" x 3"
-1 MAX9814 Microphone Amplifier Module AGC Auto Gain Control for Arduino
-1 470 ohm resistor
-1 100 uf capaitor
-1 0.1 uf capacitor
-1 Rocker Switch Package (L x W x H) 5.0 x 2.8 x 0.8 in. (see picture)
-1 Pushbutton Switch Package (L x W x H) 2.4 x 1.4 x 1.2 in. (see picture)
-1 48 in. x 3/4 in. x 1/16 in. Aluminum Square Tube
-10 #8 Pan Head Sheet Metal Screws
+- 1 IKEA Moslanda 115cm picture shelf (black)
+- 1 Arduino Uno
+- 1 Transformer
+- 2 1M 30 Pixel/M WS2812 LED strips (total of 52 LEDs required)
+- 26 3/4" Thick Perspex Cast Acrylic Blocks 5" x 3"
+- 1 MAX9814 Microphone Amplifier Module AGC Auto Gain Control for Arduino
+- 1 470 ohm resistor
+- 1 100 uf capaitor
+- 1 0.1 uf capacitor
+- 1 Rocker Switch Package (L x W x H) 5.0 x 2.8 x 0.8 in. (see picture)
+- 1 Pushbutton Switch Package (L x W x H) 2.4 x 1.4 x 1.2 in. (see picture)
+- 1 48 in. x 3/4 in. x 1/16 in. Aluminum Square Tube
+- 10 #8 Pan Head Sheet Metal Screws
 
 ## Printables:
 
-26 Perspex Mount*
-8 Led Strip Retainer
-2 Center Support
-1 Left Angular End
-1 Right Angular End
-1 Center Connection Junction
-1 Arduino Screwless Hobby Top
-1 Arduino Uno Mountable Bottom
+- 26 Perspex Mount*
+- 8 Led Strip Retainer
+- 2 Center Support
+- 1 Left Angular End
+- 1 Right Angular End
+- 1 Center Connection Junction
+- 1 Arduino Screwless Hobby Top
+- 1 Arduino Uno Mountable Bottom
 
 Attention was paid to ensuring all pieces will print without support. There are fine design details to enhance FDM bridging abilities.
 
