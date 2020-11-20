@@ -1,5 +1,7 @@
 # Perspex Clear Acrylic WS2812 LED Audio Interactive Light Bar
 
+[![Everything Is AWESOME](https://i.imgur.com/hv7E1IH.jpg)](https://youtu.be/7bf3BYers34 "Everything Is AWESOME")
+
 ![](https://i.imgur.com/hv7E1IH.jpg)
 
 # **Summary**
@@ -8,6 +10,8 @@ Completed Assembly in operation:
 https://youtu.be/d8P9hhyOXbk
 and another sample
 https://youtu.be/7bf3BYers34
+
+
 
 I apologize for the low quality video.It looks and the sound was much better than my tablet cam gives justice.
 
