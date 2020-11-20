@@ -1,7 +1,7 @@
 # Perspex Clear Acrylic WS2812 LED Audio Interactive Light Bar
 
 [![Click To View Video](https://i.imgur.com/hv7E1IH.jpg)](https://youtu.be/7bf3BYers34 "Click to View Video")
-Click on image to view in action. Second sample video at https://youtu.be/d8P9hhyOXbk
+### Click on image to view in action. Second sample video at https://youtu.be/d8P9hhyOXbk
 
 # **Summary**
 
